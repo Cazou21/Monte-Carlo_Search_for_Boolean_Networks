@@ -1,0 +1,27 @@
+{
+    "ChevalierBNs-S2-min": {
+        "ens_name": "ChevalierBNs",
+        "ens_dir": "../data/Chevalier_ensemble",
+        "init": "../data/Chevalier_ensemble/init.json",
+        "target": {"IKZF1": 0, "KLF1": 0, "NRF1": 0, "TCF12": 0}
+    },
+    "ChevalierBNs-S2-max": {
+        "ens_name": "ChevalierBNs",
+        "ens_dir": "../data/Chevalier_ensemble",
+        "init": "../data/Chevalier_ensemble/init.json",
+        "target": {"ATF7": 0, "FOS": 1, "HBP1": 1, "IKZF1": 0, "JUNB": 1, "KLF1": 0, "MEF2C": 1, "NFATC1": 0, "NRF1": 0, "TCF12": 0}
+    },
+    "ChevalierBNs-S4-min": {
+        "ens_name": "ChevalierBNs",
+        "ens_dir": "../data/Chevalier_ensemble",
+        "init": "../data/Chevalier_ensemble/init.json",
+        "target": {"KLF1": 0, "NRF1": 0, "TCF12": 1}
+    },
+    "TumourInvasion-WT": {
+        "ens_name": "TumourInvasionWT",
+        "ens_dir": "../data/WT_ensemble",
+        "init": {"miR200": 1, "miR203": 1, "miR34": 1},
+        "init_rand": {"DNAdamage": 0.5, "ECMicroenv": 0.5},
+        "target": {"Invasion": 1, "EMT": 1, "Apoptosis": 0}
+    }
+}
