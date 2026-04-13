@@ -1,0 +1,8 @@
+numpy
+matplotlib
+networkx
+PyYAML
+tqdm
+pandas
+julia
+tomllib
