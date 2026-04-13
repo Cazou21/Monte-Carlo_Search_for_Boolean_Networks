@@ -1,0 +1,3 @@
+[submodule "src/jl_impl/deps/BooleanNetworks.jl"]
+	path = src/jl_impl/deps/BooleanNetworks.jl
+	url = https://github.com/repairnet/BooleanNetworks.jl.git
