@@ -37,7 +37,7 @@ python3 mean_plot.py \
 
 ## Project Structure
 ```
-Search4MutationSets-BN-Ensembles/
+Monte-Carlo_Search_for_Boolean_Networks/
 ├── src/            # Core simulation + algorithms
 ├── data/           # Boolean networks and bundles
 ├── results/        # main results
