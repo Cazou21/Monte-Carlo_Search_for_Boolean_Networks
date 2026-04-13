@@ -22,7 +22,7 @@ python3 julia_exp.py \
   --lnmcs_level 2 \
   --nrpa_level 50 \
   --chunk_id 0 \
-  --num_chunks 1```
+  --num_chunks 1
 '''
 ðŸ“ Runs nested search algorithms on all the ensemble.
 
